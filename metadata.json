@@ -1,0 +1,8 @@
+{
+  "name": "شركة زادنا للتصنيع الزراعي - بوابة طلبات العملاء",
+  "description": "الموقع الرسمي لشركة زادنا للتصنيع الزراعي لطلب المنتجات الغذائية والزراعية المصنعة مباشرة للتجزئة والجملة مع تتبع الطلبيات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
